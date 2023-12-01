@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd45830-4919-4bee-88dd-1a85de5d31a4" name="Changes" comment="workflow">
-      <change afterPath="$PROJECT_DIR$/src/content/blog/4.md" afterDir="false" />
+    <list default="true" id="bfd45830-4919-4bee-88dd-1a85de5d31a4" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/content/blog/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/blog/1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <workItem from="1699146153324" duration="3767000" />
       <workItem from="1701146601720" duration="9345000" />
       <workItem from="1701254633221" duration="726000" />
-      <workItem from="1701429175935" duration="1524000" />
+      <workItem from="1701429175935" duration="1975000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
@@ -186,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701155288330</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <option name="closed" value="true" />
+      <created>1701430870708</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701430870708</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,9 +214,9 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="update" />
     <MESSAGE value="update styles" />
     <MESSAGE value="workflow" />
-    <option name="LAST_COMMIT_MESSAGE" value="workflow" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
